@@ -1,2 +1,2 @@
-# Path_Finding_Visualization
-An application that finds and display the shortest path between two points.
+# Path Finding Visualization
+This is a desktop application that uses the A* algorithm to find and display the shortest path between two points.
